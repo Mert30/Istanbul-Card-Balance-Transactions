@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Istanbul Card Balance Transactions", "Istanbul Card Balance Transactions\Istanbul Card Balance Transactions.csproj", "{96BC7C34-8FEC-45AB-B053-369E571F5B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BC7C34-8FEC-45AB-B053-369E571F5B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BC7C34-8FEC-45AB-B053-369E571F5B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BC7C34-8FEC-45AB-B053-369E571F5B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BC7C34-8FEC-45AB-B053-369E571F5B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F7BEE8-FBBE-4D5C-A38F-0EB653848FF5}
+	EndGlobalSection
+EndGlobal
